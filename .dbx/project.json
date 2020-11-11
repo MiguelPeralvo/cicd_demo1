@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "default": {
+      "profile": "az-mp-test",
+      "workspace_dir": "/Shared/dbx/cicd_demo1",
+      "artifact_location": "dbfs:/Shared/dbx/projects/cicd_demo1"
+    }
+  }
+}
